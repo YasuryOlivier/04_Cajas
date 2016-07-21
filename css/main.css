@@ -1,0 +1,25 @@
+p{
+	border: dashed;
+	color: blue;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+
+}
+#caja1{
+	padding: 40px 20px 70px 200px;/*empuja hacia adentro el contenido*/
+	background-color:green;
+	color:pink;
+	border:dashed;
+}
+#caja2{
+	margin: 10px 70px 40px 50px;
+	padding: 3px 14px 6px 50px;
+	background-color:pink;	
+	
+}
+#caja3{
+	margin: 5px 10px 15px 20px;
+	padding: 8px 12px 14px 70px;
+	background-color:yellow;
+}
